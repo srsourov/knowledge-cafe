@@ -1,0 +1,57 @@
+.card {
+    margin: 20px 0;
+}
+.main-img {
+    width: 100%;
+    height: 500px;
+    
+    border-radius: 5px;
+}
+
+.author-info{
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.author-name-date {
+    text-align: left;
+}
+.author-name {
+    margin: 5px;
+}
+.publish-date {
+    margin: 5px;
+}
+
+.card-author-info {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.author-img {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+.bookmark-icon {
+    display: flex;
+    align-items: center;
+    
+}
+
+.icon {
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.title {
+    text-align: left;
+}
+
+.button {
+    text-align: left;
+}
